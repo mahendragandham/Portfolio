@@ -3,7 +3,7 @@ import "./LoaderLogo.css";
 
 class LogoLoader extends React.Component {
   render() {
-    const theme = this.props.theme;
+    // const theme = this.props.theme;
     return (
       <div class="nothing">
         <div class="wrapper">
