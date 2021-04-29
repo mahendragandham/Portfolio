@@ -58,6 +58,24 @@
             "iconifyClass": "logos-jupyter"
           }
         ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+        "name": "Smile Detection App",
+        "createdAt": "2021-02-02T05:00:56Z",
+        "url": "https://github.com/mahendragandham/smile-detector-app",
+        "description": "This is Smile Detection App designed in Python using Harcascade Algorithm. It will detect the face and shows a toast message when the face is smiling. Its completely based on Artificial Intelligence.",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "Python",
+            "iconifyClass": "logos-python"
+          },
+          {
+            "name": "Jupyter Notebook",
+            "iconifyClass": "logos-jupyter"
+          }
+        ]
       }
       
     ]
