@@ -334,7 +334,7 @@ const certifications = {
       subtitle: "- Harika Infotech",
       logo_path: "harika_infotech.jpeg",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://drive.google.com/file/d/19x5fsqj_rH2Fpe4BLnNqY5OaUUzzheks/view?usp=sharing",
       alt_name: "Harika Infotech",
       color_code: "#fff",
     },
