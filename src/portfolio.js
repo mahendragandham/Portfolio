@@ -222,7 +222,7 @@ const skills = {
       ],
     },
     {
-      title: " iOS Development",
+      title: "iOS Development",
       fileName: "DesignImg",
       skills: [
         "⚡ Designing highly attractive user interface for iOS applications",
