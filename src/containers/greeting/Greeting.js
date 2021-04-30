@@ -29,7 +29,7 @@ export default function Greeting(props) {
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
                 <Button
-                  text="⭐ Ping Me on Whatsapp"
+                  text="Ping Me on Whatsapp"
                   newTab={true}
                   href={greeting.portfolio_repository}
                   theme={theme}
