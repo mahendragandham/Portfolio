@@ -266,22 +266,30 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    // {
-    //   siteName: "HackerRank",
-    //   iconifyClassname: "simple-icons:hackerrank",
-    //   style: {
-    //     color: "#2EC866",
-    //   },
-    //   profileLink: "https://www.hackerrank.com/layman_brother",
-    // },
-    // {
-    //   siteName: "Codechef",
-    //   iconifyClassname: "simple-icons:codechef",
-    //   style: {
-    //     color: "#5B4638",
-    //   },
-    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    // },
+    {
+      siteName: "HackerRank",
+      iconifyClassname: "simple-icons:hackerrank",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://www.hackerrank.com/mahendra4919",
+    },
+    {
+      siteName: "Codechef",
+      iconifyClassname: "simple-icons:codechef",
+      style: {
+        color: "#5B4638",
+      },
+      profileLink: "https://www.codechef.com/users/mahendra4919",
+    },
+    {
+      siteName: "Hackerearth",
+      iconifyClassname: "simple-icons:hackerearth",
+      style: {
+        color: "#323754",
+      },
+      profileLink: "https://www.hackerearth.com/@mahendra4919",
+    },
     // {
     //   siteName: "Codeforces",
     //   iconifyClassname: "simple-icons:codeforces",
@@ -289,14 +297,6 @@ const competitiveSites = {
     //     color: "#1F8ACB",
     //   },
     //   profileLink: "http://codeforces.com/profile/layman_brother",
-    // },
-    // {
-    //   siteName: "Hackerearth",
-    //   iconifyClassname: "simple-icons:hackerearth",
-    //   style: {
-    //     color: "#323754",
-    //   },
-    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
     // },
   ],
 };
@@ -321,11 +321,11 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Programming in C",
-      subtitle: "- C++ Institute",
+      title: "IT Essentials",
+      subtitle: "- Cisco Networking Academy",
       logo_path: "cisco.png",
       certificate_link:
-        "https://drive.google.com/file/d/1ANPFW2XPZJCUtDnQt6q2FGoQaRzUpzGV/view?usp=sharing",
+        "https://drive.google.com/file/d/19gTHlgnEzVd32gwRv7PxT4ZzKL3j7Fpo/view?usp=sharing",
       alt_name: "Cisco Networking Academy",
       color_code: "#fff",
     },
@@ -339,11 +339,11 @@ const certifications = {
       color_code: "#fff",
     },
     {
-      title: "IT Essentials",
-      subtitle: "- Cisco Networking Academy",
+      title: "Programming in C",
+      subtitle: "- C++ Institute",
       logo_path: "cisco.png",
       certificate_link:
-        "https://drive.google.com/file/d/19gTHlgnEzVd32gwRv7PxT4ZzKL3j7Fpo/view?usp=sharing",
+        "https://drive.google.com/file/d/1ANPFW2XPZJCUtDnQt6q2FGoQaRzUpzGV/view?usp=sharing",
       alt_name: "Cisco Networking Academy",
       color_code: "#fff",
     },
