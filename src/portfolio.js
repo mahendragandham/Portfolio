@@ -289,14 +289,14 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerearth.com/@mahendra4919",
     },
-    // {
-    //   siteName: "Codeforces",
-    //   iconifyClassname: "simple-icons:codeforces",
-    //   style: {
-    //     color: "#1F8ACB",
-    //   },
-    //   profileLink: "http://codeforces.com/profile/layman_brother",
-    // },
+    {
+      siteName: "hackthebox",
+      iconifyClassname: "simple-icons:hackthebox",
+      style: {
+        color: "#006400",
+      },
+      profileLink: "https://hackthebox.eu/mahendra4919",
+    },
   ],
 };
 
