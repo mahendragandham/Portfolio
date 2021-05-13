@@ -122,13 +122,13 @@ const skills = {
             color: "#CB3837",
           },
         },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
       ],
     },
     {
@@ -172,62 +172,62 @@ const skills = {
         },
       ],
     },
+    // {
+    //   title: "Cloud Infra-Architecture",
+    //   fileName: "CloudInfraImg",
+    //   skills: [
+    //     "⚡ Experience working on multiple cloud platforms",
+    //     "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+    //     "⚡ Deploying deep learning models on cloud to use on mobile devices",
+    //     "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "GCP",
+    //       fontAwesomeClassname: "simple-icons:googlecloud",
+    //       style: {
+    //         color: "#4285F4",
+    //       },
+    //     },
+    //     {
+    //       skillName: "AWS",
+    //       fontAwesomeClassname: "simple-icons:amazonaws",
+    //       style: {
+    //         color: "#FF9900",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Azure",
+    //       fontAwesomeClassname: "simple-icons:microsoftazure",
+    //       style: {
+    //         color: "#0089D6",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Firebase",
+    //       fontAwesomeClassname: "simple-icons:firebase",
+    //       style: {
+    //         color: "#FFCA28",
+    //       },
+    //     },
+    //     {
+    //       skillName: "PostgreSQL",
+    //       fontAwesomeClassname: "simple-icons:postgresql",
+    //       style: {
+    //         color: "#336791",
+    //       },
+    //     },
+    //     {
+    //       skillName: "MongoDB",
+    //       fontAwesomeClassname: "simple-icons:mongodb",
+    //       style: {
+    //         color: "#47A248",
+    //       },
+    //     },
+    //   ],
+    // },
     {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-      ],
-      softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-      ],
-    },
-    {
-      title: "iOS Development",
+      title: "Robotics Research & Development",
       fileName: "DesignImg",
       skills: [
         "⚡ Designing highly attractive user interface for iOS applications",
@@ -236,33 +236,33 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Apple",
-          fontAwesomeClassname: "wpf-mac-os",
+          skillName: "Processor",
+          fontAwesomeClassname: "uil:processor",
           style: {
             color: "#000000",
           },
         },
         {
-          skillName: "Swift",
-          fontAwesomeClassname: "simple-icons:swift",
+          skillName: "Robot",
+          fontAwesomeClassname: "mdi:robot-industrial",
           style: {
-            color: "#F24E1E",
+            color: "#222",
           },
         },
         {
-          skillName: "Finder",
-          fontAwesomeClassname: "vscode-icons:folder-type-macos",
+          skillName: "Machine Learning",
+          fontAwesomeClassname: "carbon:machine-learning-model",
           style: {
-            color: "#FF7C00",
+            color: "#222",
           },
         },
-        {
-          skillName: "Xcode",
-          fontAwesomeClassname: "cib:xcode",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
+        // {
+        //   skillName: "Xcode",
+        //   fontAwesomeClassname: "cib:xcode",
+        //   style: {
+        //     color: "#FF2BC2",
+        //   },
+        // },
       ],
     },
   ],
