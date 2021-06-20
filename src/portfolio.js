@@ -301,7 +301,7 @@ const competitiveSites = {
       style: {
         color: "#006400",
       },
-      profileLink: "https://github.com/mahendragandham/portfolio.git",
+      profileLink: "https://www.hackthebox.eu/home/users/profile/155107",
     },
   ],
 };
