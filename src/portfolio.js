@@ -1,5 +1,5 @@
 const settings = {
-  isSplash: true, 
+  isSplash: true,
 };
 
 const seo = {
@@ -28,13 +28,13 @@ const socialMediaLinks = [
     name: "Github",
     link: "https://github.com/mahendragandham",
     fontAwesomeIcon: "fa-github",
-    backgroundColor: "#181717", 
+    backgroundColor: "#181717",
   },
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/mahendra-gandham-7066b51b9/",
-    fontAwesomeIcon: "fa-linkedin-in", 
-    backgroundColor: "#0077B5", 
+    fontAwesomeIcon: "fa-linkedin-in",
+    backgroundColor: "#0077B5",
   },
   {
     name: "YouTube",
@@ -45,26 +45,26 @@ const socialMediaLinks = [
   {
     name: "Gmail",
     link: "mailto:mahendragandham730@gmail.com",
-    fontAwesomeIcon: "fa-google", 
-    backgroundColor: "#D14836", 
+    fontAwesomeIcon: "fa-google",
+    backgroundColor: "#D14836",
   },
   {
     name: "Twitter",
     link: "https://twitter.com/mahendra_4919",
-    fontAwesomeIcon: "fa-twitter", 
-    backgroundColor: "#1DA1F2", 
+    fontAwesomeIcon: "fa-twitter",
+    backgroundColor: "#1DA1F2",
   },
   {
     name: "Facebook",
     link: "https://www.facebook.com/mahendra.gandham.54/",
-    fontAwesomeIcon: "fa-facebook-f", 
-    backgroundColor: "#1877F2", 
+    fontAwesomeIcon: "fa-facebook-f",
+    backgroundColor: "#1877F2",
   },
   {
     name: "Instagram",
     link: "https://www.instagram.com/mahendra_4919/",
-    fontAwesomeIcon: "fa-instagram", 
-    backgroundColor: "#E4405F", 
+    fontAwesomeIcon: "fa-instagram",
+    backgroundColor: "#E4405F",
   },
 ];
 
@@ -164,7 +164,7 @@ const skills = {
         },
         {
           skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          fontAwesomeClassname: "simple-icons:python",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
@@ -227,31 +227,45 @@ const skills = {
     //   ],
     // },
     {
-      title: "Robotics Research & Development",
+      title: "Linux Development & Administrtation",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for iOS applications",
+        "⚡ Designing highly attractive user interface for Linux",
         "⚡ Creating new functionalities using Swift Programming language for iOS apps",
         "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
         {
-          skillName: "Processor",
-          fontAwesomeClassname: "uil:processor",
+          skillName: "XSS",
+          fontAwesomeClassname: "gg:website",
           style: {
             color: "#000000",
           },
         },
         {
-          skillName: "Robot",
-          fontAwesomeClassname: "mdi:robot-industrial",
+          skillName: "Linux",
+          fontAwesomeClassname: "codicon:terminal-linux",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "BASH",
+          fontAwesomeClassname: "logos:bash-icon",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Desktop",
+          fontAwesomeClassname: "emojione-monotone:desktop-computer",
           style: {
             color: "#222",
           },
         },
         {
-          skillName: "Machine Learning",
-          fontAwesomeClassname: "carbon:machine-learning-model",
+          skillName: "HackTheBox",
+          fontAwesomeClassname: "simple-icons:hackthebox",
           style: {
             color: "#222",
           },
@@ -352,7 +366,7 @@ const certifications = {
       alt_name: "Cisco Networking Academy",
       color_code: "#fff",
     },
-    
+
     // {
     //   title: "Data Science",
     //   subtitle: "- Alex Aklson",
