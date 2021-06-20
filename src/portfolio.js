@@ -315,7 +315,7 @@ const competitiveSites = {
       style: {
         color: "#006400",
       },
-      profileLink: "https://www.hackthebox.eu/home/users/profile/155107",
+      profileLink: "https://app.hackthebox.eu/profile/155107",
     },
   ],
 };
