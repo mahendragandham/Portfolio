@@ -236,38 +236,45 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "XSS",
-          fontAwesomeClassname: "gg:website",
+          skillName: "Terminal",
+          fontAwesomeClassname: "ant-design:code-filled",
           style: {
             color: "#000000",
           },
         },
         {
           skillName: "Linux",
-          fontAwesomeClassname: "codicon:terminal-linux",
+          fontAwesomeClassname: "logos:linux-tux",
           style: {
-            color: "#000000",
-          },
-        },
-        {
-          skillName: "BASH",
-          fontAwesomeClassname: "logos:bash-icon",
-          style: {
-            color: "#000000",
+            color: "",
           },
         },
         {
           skillName: "Desktop",
-          fontAwesomeClassname: "emojione-monotone:desktop-computer",
+          fontAwesomeClassname: "logos:ubuntu",
           style: {
             color: "#222",
           },
         },
         {
-          skillName: "HackTheBox",
-          fontAwesomeClassname: "simple-icons:hackthebox",
+          skillName: "RedHat",
+          fontAwesomeClassname: "logos:redhat-icon",
           style: {
-            color: "#222",
+            color: "#00FF00",
+          },
+        },
+        {
+          skillName: "RedHat",
+          fontAwesomeClassname: "logos:debian",
+          style: {
+            color: "#00FF00",
+          },
+        },
+        {
+          skillName: "BASH Shell",
+          fontAwesomeClassname: "codicon:terminal-bash",
+          style: {
+            color: "#000000",
           },
         },
         // {
