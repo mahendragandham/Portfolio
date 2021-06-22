@@ -1,82 +1,80 @@
 {
-    "data": [
-      {
-        "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-        "name": "Face-detection-App",
-        "createdAt": "2021-01-05T16:26:54Z",
-        "url": "https://github.com/mahendragandham/face-detection-app",
-        "description": "Face Detection Application which is developed using Haar Algorithm and OpenCV Library in Python. This project will detect the faces in webcam or any required image which was in the same directory. It will detect the faces in the webcam with the help of frames and display the face surrounded with square shape coordinates.",
-        "isFork": false,
-        "languages": [
-          {
-            "name": "OpenCV",
-            "iconifyClass": "logos:opencv"
-          },
-          {
-            "name": "Python",
-            "iconifyClass": "logos-python"
-          }
-        ]
-      },
-      {
-        "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-        "name": "Netflix-Clone",
-        "createdAt": "2020-06-03T11:53:55Z",
-        "url": "https://github.com/mahendragandham/netflix-clone",
-        "description": "This project (Netflix clone) which is the clone of Netflix FrontEnd. This website is build in React JS and Node JS. The movies displayed in this website is fetched from the original (tmdb.org) site. You can visit project by:",
-        "isFork": false,
-        "languages": [
-          {
-            "name": "HTML",
-            "iconifyClass": "logos-html-5"
-          },
-          {
-            "name": "CSS",
-            "iconifyClass": "logos-css-3"
-          },
-          {
-            "name": "JavaScript",
-            "iconifyClass": "logos-javascript"
-          }
-        ]
-      }
-      ,
-      {
-        "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-        "name": "Voice Assistant",
-        "createdAt": "2021-02-02T05:00:56Z",
-        "url": "https://github.com/mahendragandham/Voice-Assist-AI",
-        "description": "This is a Voice Assistant designed in Python. It will perform operations such as Web browsing, Searching on wikipedia according to the user command, cpu processes running, jokes functioning, mail sending feature, etc.",
-        "isFork": false,
-        "languages": [
-          {
-            "name": "Python",
-            "iconifyClass": "logos-python"
-          },
-          {
-            "name": "Jupyter Notebook",
-            "iconifyClass": "logos-jupyter"
-          }
-        ]
-      },
-      {
-        "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-        "name": "Smile Detection App",
-        "createdAt": "2021-02-02T05:00:56Z",
-        "url": "https://github.com/mahendragandham/smile-detector-app",
-        "description": "This is Smile Detection App designed in Python using Harcascade Algorithm. It will detect the face and shows a toast message when the face is smiling. Its completely based on Artificial Intelligence.",
-        "isFork": false,
-        "languages": [
-          {
-            "name": "Python",
-            "iconifyClass": "logos-python"
-          },
-          {
-            "name": "Jupyter Notebook",
-            "iconifyClass": "logos-jupyter"
-          }
-        ]
-      }
-      
-    ]
-  }
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Face-detection-App",
+      "createdAt": "2021-01-05T16:26:54Z",
+      "url": "https://github.com/mahendragandham/face-detection-app",
+      "description": "Face Detection Application which is developed using Haar Algorithm and OpenCV Library in Python. This project will detect the faces in webcam or any required image which was in the same directory. It will detect the faces in the webcam with the help of frames and display the face surrounded with square shape coordinates.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos:opencv"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Project Conqueror",
+      "createdAt": "2021-06-05T16:26:54Z",
+      "url": "https://github.com/mahendragandham/Conqueror",
+      "description": "This is an Open Source Project. It is actually a Basic Operating System based on Linux Kernel developed using C language, x86_64 Assembly Language and Makefile. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C",
+          "iconifyClass": "logos:c"
+        },
+        {
+          "name": "Assembly",
+          "iconifyClass": "vscode-icons:file-type-assembly"
+        },
+        {
+          "name": "Makefile",
+          "iconifyClass": "vscode-icons:file-type-makefile"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Netflix-Clone",
+      "createdAt": "2020-06-03T11:53:55Z",
+      "url": "https://github.com/mahendragandham/netflix-clone",
+      "description": "This project (Netflix clone) which is the clone of Netflix FrontEnd. This website is build in React JS and Node JS. The movies displayed in this website is fetched from the original (tmdb.org) site. You can visit project by:",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Voice Assistant",
+      "createdAt": "2021-02-02T05:00:56Z",
+      "url": "https://github.com/mahendragandham/Voice-Assist-AI",
+      "description": "This is a Voice Assistant designed in Python. It will perform operations such as Web browsing, Searching on wikipedia according to the user command, cpu processes running, jokes functioning, mail sending feature, etc.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    }
+  ]
+}

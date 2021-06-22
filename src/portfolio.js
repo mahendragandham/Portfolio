@@ -117,7 +117,7 @@ const skills = {
         },
         {
           skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          fontAwesomeClassname: "logos:npm-icon",
           style: {
             color: "#CB3837",
           },
@@ -164,7 +164,7 @@ const skills = {
         },
         {
           skillName: "Python",
-          fontAwesomeClassname: "simple-icons:python",
+          fontAwesomeClassname: "logos:python",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
