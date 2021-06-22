@@ -231,7 +231,7 @@ const skills = {
       fileName: "DesignImg",
       skills: [
         "⚡ Designing highly attractive user interface for Linux",
-        "⚡ Creating new functionalities using Swift Programming language for iOS apps",
+        "⚡ Creating new functionalities for Linux apps",
         "⚡ Creating the flow of application functionalities to optimize User Experience",
       ],
       softwareSkills: [
