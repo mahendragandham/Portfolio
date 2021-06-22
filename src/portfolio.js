@@ -250,7 +250,7 @@ const skills = {
           },
         },
         {
-          skillName: "Desktop",
+          skillName: "Ubuntu",
           fontAwesomeClassname: "logos:ubuntu",
           style: {
             color: "#222",
@@ -264,7 +264,7 @@ const skills = {
           },
         },
         {
-          skillName: "RedHat",
+          skillName: "Debian",
           fontAwesomeClassname: "logos:debian",
           style: {
             color: "#00FF00",
