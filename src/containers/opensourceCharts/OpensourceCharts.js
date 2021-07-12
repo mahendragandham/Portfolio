@@ -3,7 +3,6 @@ import PullRequestChart from "../../components/pullRequestChart/PullRequestChart
 import IssueChart from "../../components/issueChart/IssueChart.js";
 import { Fade } from "react-reveal";
 import "./OpensourceCharts.css";
-import GitHubCalendar from "react-github-calendar";
 
 class OpensourceCharts extends Component {
   render() {
