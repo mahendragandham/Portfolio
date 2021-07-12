@@ -17,7 +17,7 @@ class PullRequests extends Component {
             </h1>
           </Fade>
         </div>
-        <div className="pull-request-body-div">
+        <div className="chart">
           <Fade bottom duration={3000} distance="30px">
             <GitHubCalendar username="mahendragandham" fullYear={false} />
           </Fade>

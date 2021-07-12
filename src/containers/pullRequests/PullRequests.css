@@ -2,6 +2,15 @@
   margin-top: 100px;
 }
 
+.chart {
+  position: relative;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 0.25rem;
+  overflow: visible;
+  /* left: 50%; */
+}
+
 .pull-requests-header {
   font-size: 40px;
   line-height: 1.1;
@@ -26,8 +35,16 @@
   .pull-requests-header-div {
     margin-top: 40px;
   }
-
+  .chart {
+    position: relative;
+    max-width: 90%;
+    height: auto;
+    margin-bottom: 0.25rem;
+    overflow: visible;
+    left: 10%;
+  }
   .pull-requests-header {
     font-size: 25px;
+    left: 10%;
   }
 }
