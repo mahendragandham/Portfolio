@@ -1,53 +1,26 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Face-detection-App",
-      "createdAt": "2021-01-05T16:26:54Z",
-      "url": "https://github.com/mahendragandham/face-detection-app",
-      "description": "Face Detection Application which is developed using Haar Algorithm and OpenCV Library in Python. This project will detect the faces in webcam or any required image which was in the same directory. It will detect the faces in the webcam with the help of frames and display the face surrounded with square shape coordinates.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "OpenCV",
-          "iconifyClass": "logos:opencv"
-        },
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "Project Conqueror",
-      "createdAt": "2021-06-05T16:26:54Z",
+      "id": "MDEwOlJlcG9zaXRvcnkzNDg3NjA2ODA=",
+      "name": "Conqueror",
+      "createdAt": "2021-03-17T15:32:13Z",
       "url": "https://github.com/mahendragandham/Conqueror",
-      "description": "This is an Open Source Project. It is actually a Basic Operating System based on Linux Kernel developed using C language, x86_64 Assembly Language and Makefile. ",
+      "description": "Conqueror designed using Linux Kernel.",
       "isFork": false,
-      "languages": [
-        {
-          "name": "C",
-          "iconifyClass": "logos:c"
-        },
-        {
-          "name": "Assembly",
-          "iconifyClass": "vscode-icons:file-type-assembly"
-        },
-        {
-          "name": "Makefile",
-          "iconifyClass": "vscode-icons:file-type-makefile"
-        }
-      ]
+      "languages": []
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "Netflix-Clone",
-      "createdAt": "2020-06-03T11:53:55Z",
-      "url": "https://github.com/mahendragandham/netflix-clone",
-      "description": "This project (Netflix clone) which is the clone of Netflix FrontEnd. This website is build in React JS and Node JS. The movies displayed in this website is fetched from the original (tmdb.org) site. You can visit project by:",
+      "id": "MDEwOlJlcG9zaXRvcnkzNDQ4NDE5OTU=",
+      "name": "amazon-clone",
+      "createdAt": "2021-03-05T14:50:54Z",
+      "url": "https://github.com/mahendragandham/amazon-clone",
+      "description": "This is a Clone website of amazon.com. This website is created using React JS. It displays the items list, you can add them to your cart and later you can delete them from the cart. It has a real time login data. The real cash payment is fetched from stripe.com. ",
       "isFork": false,
       "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
@@ -55,19 +28,38 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "Voice Assistant",
-      "createdAt": "2021-02-02T05:00:56Z",
+      "id": "MDEwOlJlcG9zaXRvcnkzNTI5MTIzNjc=",
+      "name": "Linux_kernel",
+      "createdAt": "2021-03-30T07:38:04Z",
+      "url": "https://github.com/mahendragandham/Linux_kernel",
+      "description": "Core linux kernel with source code.",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNDcwNzQ5NTM=",
+      "name": "smile-detector-app",
+      "createdAt": "2021-03-12T13:26:30Z",
+      "url": "https://github.com/mahendragandham/smile-detector-app",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNDkwODU0MTc=",
+      "name": "Voice-Assist-AI",
+      "createdAt": "2021-03-18T13:32:08Z",
       "url": "https://github.com/mahendragandham/Voice-Assist-AI",
-      "description": "This is a Voice Assistant designed in Python. It will perform operations such as Web browsing, Searching on wikipedia according to the user command, cpu processes running, jokes functioning, mail sending feature, etc.",
+      "description": "Virtual Voice Assistant in Python.",
       "isFork": false,
       "languages": [
         {
