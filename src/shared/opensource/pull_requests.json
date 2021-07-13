@@ -1,5 +1,5 @@
 {
-  "closed": 5,
+  "closed": 7,
   "data": [
     {
       "id": "MDExOlB1bGxSZXF1ZXN0Njg3OTM4NzA2",
@@ -89,7 +89,7 @@
       "id": "MDExOlB1bGxSZXF1ZXN0Njg3Njc1OTQw",
       "title": "`Rechanged [ ] tags in if statement in gimp-flatpak-cron.sh`",
       "url": "https://github.com/GNOME/gimp/pull/32",
-      "state": "OPEN",
+      "state": "CLOSED",
       "mergedBy": null,
       "createdAt": "2021-07-12T09:40:16Z",
       "number": 32,
@@ -110,7 +110,7 @@
       "id": "MDExOlB1bGxSZXF1ZXN0Njg3NjczMzUx",
       "title": "`Added [ ] tags around if condition in gimp-flatpak-cron.sh`",
       "url": "https://github.com/GNOME/gimp/pull/31",
-      "state": "OPEN",
+      "state": "CLOSED",
       "mergedBy": null,
       "createdAt": "2021-07-12T09:36:32Z",
       "number": 31,
@@ -217,6 +217,6 @@
     }
   ],
   "merged": 1,
-  "open": 4,
+  "open": 2,
   "totalCount": 10
 }
