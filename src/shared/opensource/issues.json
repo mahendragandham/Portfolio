@@ -2,6 +2,26 @@
   "closed": 1,
   "data": [
     {
+      "id": "MDU6SXNzdWU5NDI5Mjg0OTU=",
+      "closed": false,
+      "title": "Updated the README.md docs",
+      "createdAt": "2021-07-13T07:51:23Z",
+      "url": "https://github.com/mahendragandham/Voice-Assist-AI/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Voice-Assist-AI",
+        "url": "https://github.com/mahendragandham/Voice-Assist-AI",
+        "owner": {
+          "login": "mahendragandham",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/80026278?u=460a3c6b55105b3d2c54924072225f07fad9d2d0&v=4",
+          "url": "https://github.com/mahendragandham"
+        }
+      }
+    },
+    {
       "id": "MDU6SXNzdWU5NDIyMDg0NTk=",
       "closed": false,
       "title": "Conqueror[1.0.0.1] - `libmy.so nor loading kernel file`",
@@ -42,6 +62,6 @@
       }
     }
   ],
-  "open": 1,
-  "totalCount": 2
+  "open": 2,
+  "totalCount": 3
 }
